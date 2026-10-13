@@ -1,0 +1,17 @@
+# Normalize line endings to LF on commit, checkout as CRLF on Windows
+* text=auto eol=lf
+
+# Force binary files to never be converted
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.pdf binary
+*.mp3 binary
+*.mp4 binary
+*.wav binary
+*.ogg binary
+*.m4a binary
+*.webm binary
+*.mov binary
